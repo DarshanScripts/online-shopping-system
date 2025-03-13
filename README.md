@@ -59,8 +59,8 @@ online-shopping-system/
 │── login.php                # User Login
 │── logout.php               # Logout Functionality
 │── registration.php         # User Registration
-│── config.php               # Database Configuration
-│── database.sql             # SQL Database Dump
+│── DBConnection.php         # Database Configuration
+│── TableStructure.sql       # SQL Database Dump
 │
 ├── Admin/
 │   ├── dashboard.php        # Admin Dashboard
